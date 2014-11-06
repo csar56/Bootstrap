@@ -13,22 +13,24 @@
 ?>
 
 
-	<main class="row">
+	<main class="container">
+		<div class="row">
 		<div class="col-md-12">
 		<a href="http://www.codecademy.com/csar56"><h1>Codecademy</h1></a>
 		</div>
 		
 		<div class="col-md-6">
-			Gource Video von dieser Seite
+			<h4>Gource Video von dieser Seite:</h4>
 			<video controls autobuffer width="480" >
 				<source src="video/gource.webm" type="video/webm"><source>
 			</video>
 		</div>
 		<div class="col-md-6">
-			Gource Video von <a href="http://adf.ly/toBEr">BS Fellingshausen</a>
+			<h4>Gource Video von <a href="http://adf.ly/toBEr">BS Fellingshausen</a>:</h4>
 			<video controls autobuffer width="480" >
 				<source src="video/BSFell.webm" type="video/webm"><source>
 			</video>
+		</div>
 		</div>
 	</main>
 
