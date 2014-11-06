@@ -18,7 +18,14 @@
 		<a href="http://www.codecademy.com/csar56"><h1>Codecademy</h1></a>
 		</div>
 		
-		<div class="col-md-12">
+		<div class="col-md-6">
+			Gource Video von dieser Seite
+			<video controls autobuffer width="640" >
+				<source src="video/gource.webm" type="video/webm"><source>
+			</video>
+		</div>
+		<div class="col-md-6">
+			Gource Video von <a href="http://adf.ly/toBEr">BS Fellingshausen</a>
 			<video controls autobuffer width="640" >
 				<source src="video/BSFell.webm" type="video/webm"><source>
 			</video>
