@@ -20,13 +20,13 @@
 		
 		<div class="col-md-6">
 			Gource Video von dieser Seite
-			<video controls autobuffer width="640" >
+			<video controls autobuffer width="480" >
 				<source src="video/gource.webm" type="video/webm"><source>
 			</video>
 		</div>
 		<div class="col-md-6">
 			Gource Video von <a href="http://adf.ly/toBEr">BS Fellingshausen</a>
-			<video controls autobuffer width="640" >
+			<video controls autobuffer width="480" >
 				<source src="video/BSFell.webm" type="video/webm"><source>
 			</video>
 		</div>
