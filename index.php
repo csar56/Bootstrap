@@ -21,14 +21,12 @@
 		
 		<div class="col-md-6">
 			Gource Video von dieser Seite<br />
-			<video controls preload="auto" width="500" >
-				<source src="video/gource.webm" type="video/webm"></source>
+			<video controls preload="auto" width="500" src="video/gource.webm">
 			</video>
 		</div>
 		<div class="col-md-6">
 			Gource Video von <a href="http://adf.ly/toBEr">BS Fellingshausen</a><br />
-			<video controls preload="auto" width="500" >
-				<source src="video/BSFell.webm" type="video/webm"></source>
+			<video controls preload="auto" width="500" src="video/BSFell.webm">
 			</video>
 		</div>
 	</main>
