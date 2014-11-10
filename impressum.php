@@ -3,9 +3,9 @@
 
 <head>
 	<title>Christoph Sauer</title>
-	
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-   <script src="js/bootstrap.min.js"></script>	
+		<?php
+		include('php/head.php');
+	?>
 </head>
 <body>
 <div></div>
