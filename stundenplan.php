@@ -12,7 +12,8 @@
 	include('php/navbar.php');
 ?>
 	<main class="row-fluid">
-	<div class="col-md-12">
+	<div class="col-md-1"></div>
+	<div class="col-md-10">
 		<table border="2" class="table">
 			<tr>
 				<th>Stunde</th>
@@ -108,7 +109,8 @@
 			</tr>
 		</table>
 	</div>
-
+<div class="col-md-1"></div>
+</main>
 
 
 	<script type="text/javascript"

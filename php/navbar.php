@@ -1,6 +1,5 @@
 <?php
 	echo '<nav class="navbar navbar-inverse">';
-	echo '<div class="container">';
 		echo '<div class="navbar-header"><a href="index.php" class="navbar-brand">Index</a></div>';
 			echo '<div>';
 				echo '<ul class="nav navbar-nav">';
@@ -12,6 +11,5 @@
 					echo '<li><a href="impressum.php">Impressum</a></li>';
 				echo '</ul>';
 			echo '</div>';
-		echo '</div>';
 	echo '</nav>';
 ?>

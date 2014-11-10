@@ -12,7 +12,7 @@
 <?php
 	include('php/navbar.php');
 ?>
-<main class="container"
+<main>
 <div class='impressum'><h1>Impressum</h1>
 <p>Angaben gem&auml;&szlig; &sect; 5 TMG</p><p>Christoph Sauer <br> 
 <adress>
