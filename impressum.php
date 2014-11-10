@@ -8,11 +8,12 @@
    <script src="js/bootstrap.min.js"></script>	
 </head>
 <body>
+<div></div>
 <?php
 	include('php/navbar.php');
 ?>
-
-<main class='impressum'><h1>Impressum</h1>
+<main class="container"
+<div class='impressum'><h1>Impressum</h1>
 <p>Angaben gem&auml;&szlig; &sect; 5 TMG</p><p>Christoph Sauer <br> 
 <adress>
 Rodheimerstra&szlig;e 28<br> 
@@ -36,6 +37,7 @@ Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (
 Diese Website benutzt Google Adsense, einen Webanzeigendienst der Google Inc., USA (''Google''). Google Adsense verwendet sog. ''Cookies'' (Textdateien), die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie erm&ouml;glicht. Google Adsense verwendet auch sog. ''Web Beacons'' (kleine unsichtbare Grafiken) zur Sammlung von Informationen. Durch die Verwendung des Web Beacons k&ouml;nnen einfache Aktionen wie der Besucherverkehr auf der Webseite aufgezeichnet und gesammelt werden. Die durch den Cookie und/oder Web Beacon erzeugten Informationen &uuml;ber Ihre Benutzung diese Website (einschlie&szlig;lich Ihrer IP-Adresse) werden an einen Server von Google in den USA &uuml;bertragen und dort gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website im Hinblick auf die Anzeigen auszuwerten, um Reports &uuml;ber die Websiteaktivit&auml;ten und Anzeigen f&uuml;r die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte &uuml;bertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten der Google in Verbindung bringen. Das Speichern von Cookies auf Ihrer Festplatte und die Anzeige von Web Beacons k&ouml;nnen Sie verhindern, indem Sie in Ihren Browser-Einstellungen ''keine Cookies akzeptieren'' w&auml;hlen (Im MS Internet-Explorer unter ''Extras > Internetoptionen > Datenschutz > Einstellung''; im Firefox unter ''Extras > Einstellungen > Datenschutz > Cookies''); wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website voll umf&auml;nglich nutzen k&ouml;nnen. Durch die Nutzung dieser Website erkl&auml;ren Sie sich mit der Bearbeitung der &uuml;ber Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.</p><br> 
 Quelle: <a href="http://www.impressum-generator.de">Impressum Generator</a> von <a href="http://www.kanzlei-hasselbach.de/rechtsanwalt-arbeitsrecht-koeln">Rechtsanw&auml;ltin Franziska Hasselbach, K&ouml;ln</a>
 </article>
+</div>
 </main>
 
 
