@@ -9,18 +9,18 @@
    	<script src="js/bootstrap.min.js"></script>
 </head>
 <body>
-<head style="text-align:center;"><h1>IBS-Seite von Christoph Sauer</h1></head>
+<head><h1 class="text-center">IBS-Seite von Christoph Sauer</h1></head>
 
 
 <div class="row-fluid">
 	<div class="col-md-1"></div>
 	<div class="col-md-5">
 		<h2>BS Seite (haupte Seite)</h2>
-		<a href="bs/index.php"><img src="img/bsfell.png" width="500px"/></a>
+		<a href="bs/index.php"><img src="img/bsfell.png" width="500px" class="bsfell"/></a>
 	</div>
 	<div class="col-md-5">
 		<h2>2. Seite f&uuml;r IBS Unterricht</h2>
-		<a href="uni/index.php"><img src="img/uni.png" width="500px"/></a>
+		<a href="uni/index.php"><img src="img/uni.png" width="500px"class="uni"/></a>
 	</div>
 	<div class="col-md-1"></div>
 </div>
