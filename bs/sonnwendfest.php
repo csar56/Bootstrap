@@ -18,7 +18,14 @@ include("php/UserAgent.php");
 ?>
 <main class="row-fluid">
 	<div class="col-md-4"></div>
-	<div class="col-md-4"><a href="img/sonnwendfest2015.jpg"><img src="img/sonnwendfest2015k.jpg" height="700px" /></a></div>
+	<div class="col-md-4">
+		<h2 class="align-center">
+			<?php
+				include('php/Countdown.php');
+			?>
+		</h2>
+		<a href="img/sonnwendfest2015.jpg"><img src="img/sonnwendfest2015k.jpg" height="700px" /></a>
+	</div>
 	<div class="col-md-4"></div>
 </main>
 

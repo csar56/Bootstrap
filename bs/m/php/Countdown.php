@@ -25,7 +25,11 @@
 						if($tage==0){
 							echo "Noch $wochen Wochen bis zum $fest";
 						}else{
-							echo "Noch $wochen Wochen und $tage Tage bis zum $fest";
+							if($tage==1){
+								echo "Noch $wochen Wochen und $tage Tag bis zum $fest";
+							}else{
+								echo "Noch $wochen Wochen und $tage Tage bis zum $fest";
+							}
 						}
                     }else{
                          echo "Noch $tage bis zum $fest";
