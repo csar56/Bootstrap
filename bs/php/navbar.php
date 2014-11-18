@@ -1,7 +1,7 @@
 <?php
 echo'<nav class="navbar navbar-inverse navbar-fixed-top">';
 		echo'<div class="navbar-header">';
-			echo'<a href="index.php" class="navbar-brand"><img src="img/fox.png"></a>';
+			echo'<a href="index.php" class="navbar-brand"><img src="img/fox.png" alt="navbar" /></a>';
 		echo'</div>';
 		echo'<div>';
 		echo'<ul class="nav navbar-nav">';

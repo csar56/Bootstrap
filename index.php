@@ -16,11 +16,11 @@
 	<div class="col-md-1"></div>
 	<div class="col-md-5">
 		<h2>BS Seite (haupte Seite)</h2>
-		<a href="bs/index.php"><img src="img/bsfell.png" width="500px" class="bsfell"/></a>
+		<a href="bs/index.php"><img src="img/bsfell.png" width="500px" class="bsfell" alt="BSFell Seite"/></a>
 	</div>
 	<div class="col-md-5">
 		<h2>2. Seite f&uuml;r IBS Unterricht</h2>
-		<a href="uni/index.php"><img src="img/uni.png" width="500px"class="uni"/></a>
+		<a href="uni/index.php"><img src="img/uni.png" width="500px"class="uni" alt="UNI Seite"/></a>
 	</div>
 	<div class="col-md-1"></div>
 </div>

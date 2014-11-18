@@ -4,6 +4,6 @@ echo'<link href="../css/bootstrap.min.css" rel="stylesheet">';
 echo'<link href="css/style.css" rel="stylesheet" />';
 
 echo'<meta name="viewport" content="width=device-width, initial-scale=1">';
-echo'<link rel="shortcut icon" href="../img/fox.ico" type="image/x-icon" />';
+echo'<link rel="shortcut icon" href="../img/fox.ico" type="image/x-icon"/>';
 
 ?>

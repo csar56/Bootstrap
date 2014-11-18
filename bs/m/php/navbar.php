@@ -2,7 +2,7 @@
 	echo'<nav class="navbar navbar-inverse navbar-fixed-top">';
 		echo'<div>';
 			echo'<ul class="nav navbar-nav navbar-header">';
-				echo'<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"><img src="../img/fox.png" /><span class="caret"></span></a>';
+				echo'<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"><img src="../img/fox.png" alt="navbar" /><span class="caret"></span></a>';
 					echo'<ul class="dropdown-menu">';
 						echo'<li><a href="index.php"><h4>Terminplan</h4></a></li>';
 						echo'<li><a href="gruppenfoto.php"><h4>Gruppenfoto</h4></a></li>';
