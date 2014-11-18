@@ -36,7 +36,7 @@ include("php/UserAgent.php");
 		<div class="col-md-4">
 			<p>
 			<h2>1. Kassenwart</h2>
-			<h4>Christoph Sauer</h4>
+			<h4>Christoph Sauer <a href="kontakt/qrcs.jpg">QR</a></h4>
 			<adress>
 				35444 Biebertal<br />
 				Rodheimerstra&szlig;e 28<br />

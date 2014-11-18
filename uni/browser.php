@@ -34,10 +34,8 @@
 				}
 				if(navigator.javaEnabled()){
 					document.write("<li>Java Applets sind aktiviert!</li>");
-					document.write('<img src="bilder/javaduke.jpg" width="60px" />');
 				}else{
 					document.write("<li>Java Applets sind deaktiviert!</li>");
-					document.write('<img src="bilder/smiley.gif" width="60px" />');
 				}
 				document.write("</ul>");
 				document.write("<li>Bildschirmaufl&ouml;&szlig;ung:&nbsp"
