@@ -20,9 +20,11 @@ include("php/UserAgent.php");
 	<div class="col-md-4"></div>
 	<div class="col-md-4">
 		<h2 class="align-center">
+			<a href="qr/sonnwendfest.png" alt="QR Code" title="QR Code">
 			<?php
 				include('php/Countdown.php');
 			?>
+			</a>
 		</h2>
 		<a href="img/sonnwendfest2015.jpg"><img src="img/sonnwendfest2015k.jpg" height="700px" /></a>
 	</div>
