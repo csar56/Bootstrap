@@ -7,6 +7,7 @@
 					echo '<li><a href="stundenplan.php">Stundenplan</a></li>';
 					echo '<li><a href="project.php">Projekt Befehle</a></li>';
 					echo '<li><a href="http://www.codecademy.com/csar56">Codecademy</a></li>';
+					echo '<li><a href="wiki.php">Wiki Suche</a></li>';
 					echo '<li><a href="http://adf.ly/toBEr">BS Fellingshausen</a></li>';
 					echo '<li><a href="impressum.php">Impressum</a></li>';
 				echo '</ul>';
