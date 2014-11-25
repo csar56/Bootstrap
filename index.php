@@ -3,27 +3,45 @@
 
 <head>
 	<title>Christoph Sauer</title>
+		<?php
+		include('php/head.php');
+	?>
 
-  	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-   	<link href="css/bootstrap.min.css" rel="stylesheet">
-   	<script src="js/bootstrap.min.js"></script>
 </head>
 <body>
-<head><h1 class="text-center">IBS-Seite von Christoph Sauer</h1></head>
+<?php
+	include('php/navbar.php');
+?>
 
 
-<div class="row-fluid">
-	<div class="col-md-1"></div>
-	<div class="col-md-5">
-		<h2>BS Seite (haupte Seite)</h2>
-		<a href="bs/index.php"><img src="img/bsfell.png" width="500px" class="bsfell"/></a>
-	</div>
-	<div class="col-md-5">
-		<h2>2. Seite f&uuml;r IBS Unterricht</h2>
-		<a href="uni/index.php"><img src="img/uni.png" width="500px"class="uni"/></a>
-	</div>
-	<div class="col-md-1"></div>
-</div>
+	<main class="container">
+		<div class="row-fluid">
+			<div class="col-md-12">
+			<a href="http://www.codecademy.com/csar56"><h1>Codecademy</h1></a>
+			</div>
+			
+			<div class="col-md-6">
+				Gource Video von dieser Seite<br />
+				<video controls preload="auto" width="500" src="video/gource.webm"></video>
+			</div>
+			<div class="col-md-6">
+				Gource Video von <a href="http://adf.ly/toBEr">BS Fellingshausen</a><br />
+				<video controls preload="auto" width="500" src="video/BSFell.webm"></video>
+			</div>
+			<div class="col-md-6">
+				<h3>Meine Pull Request</h3>
+				<a href="https://github.com/csar56/Bootstrap/pulls">&Uuml;bersicht<br /></a>
+				<a href="https://github.com/csar56/Bootstrap/pull/1">Pull Request</a>
+			</div>
+			<div class="col-md-6"><h3>Partner pull Request</h3>
+				<a href="https://github.com/jplm">Partner</a>
+				<a href="https://github.com/jplm/webeng2014/pulls?q=is%3Apr+is%3Aclosed">&Uuml;bersicht</a>
+				<a href="https://github.com/jplm/webeng2014/pull/1">Pull Request</a>
+				<a href="https://github.com/csar56/webeng2014">Fork</a>
+			</div>
+		</div>
+	</main>
+
 
 
 <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>

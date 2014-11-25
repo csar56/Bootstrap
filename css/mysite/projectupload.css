@@ -1,0 +1,17 @@
+table{
+	box-shadow:10px 10px 10px grey;
+}
+table, td{
+	border-radius:10px;
+}
+tr:hover{
+	background-color:#f2ee9c;
+}
+th{
+	background-color: blue;
+	
+}
+
+td:hover{
+	background-color:green;
+}
