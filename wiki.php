@@ -24,6 +24,8 @@
         		<input class="searchboxGoButton" type="submit" value="Artikel-Suche" name="go"></input>
         		<input class="searchboxSearchButton" type="submit" value="Volltextsuche" name="fulltext"></input>
 			</form>
+		<br />
+		<a href="http://wave.webaim.org/report#/http://christophsauer.cloudcontrolled.com/wiki.php"><img src="http://wave.webaim.org/img/wavelogo.png" alt="Wave Webaim" title="Wave Webaim" height="64px" /></a>
 			
 			
 			
