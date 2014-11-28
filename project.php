@@ -12,8 +12,9 @@
 	include('php/navbar.php');
 ?>
 	<main class="row-fluid">
-	<div class="col-md-6">
-	<h2>Git</h2>
+	<div class="col-md-1"></div>
+	<div class="col-md-5">
+	<h1>Git</h1>
 	<table border="2" class="table">
 		<tr>
 			<th>Befehl</th>
@@ -50,8 +51,8 @@
 	</table>
 	</div>
 	
-	<div class="col-md-6">
-	<h2>CloudControl</h2>
+	<div class="col-md-5">
+	<h1>CloudControl</h1>
 	<table border="2" class="table">
 		<tr>
 			<th>Befehl</th>
@@ -67,6 +68,7 @@
 		</tr>
 	</table>
 	</div>
+	<div class="col-md-1"></div>
 	</main>
 
 <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>

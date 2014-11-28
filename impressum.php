@@ -12,8 +12,9 @@
 <?php
 	include('php/navbar.php');
 ?>
-<main>
-<div class='impressum'><h1>Impressum</h1>
+<main class="row-fluid">
+<div class="col-md-1"></div>
+<div class='impressum col-md-10'><h1>Impressum</h1>
 <p>Angaben gem&auml;&szlig; &sect; 5 TMG</p><p>Christoph Sauer <br> 
 <adress>
 Rodheimerstra&szlig;e 28<br> 
@@ -38,6 +39,7 @@ Diese Website benutzt Google Adsense, einen Webanzeigendienst der Google Inc., U
 Quelle: <a href="http://www.impressum-generator.de">Impressum Generator</a> von <a href="http://www.kanzlei-hasselbach.de/rechtsanwalt-arbeitsrecht-koeln">Rechtsanw&auml;ltin Franziska Hasselbach, K&ouml;ln</a>
 </article>
 </div>
+<div class="col-md-1"></div>
 </main>
 
 

@@ -14,6 +14,7 @@
 	<main class="row-fluid">
 	<div class="col-md-1"></div>
 	<div class="col-md-10">
+	<h1>Stundenplan</h1>
 		<table border="2" class="table">
 			<tr>
 				<th>Stunde</th>

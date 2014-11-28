@@ -16,6 +16,7 @@
 	<main class="row-fluid">
 	<div class="col-md-3"></div>
 	<div class="col-md-6">
+	<h1>Informationen zu deinem Browser</h1>
 		<ul>
 			<script>
 				document.write("<li>Betriebssystem:&nbsp;" + navigator.platform
