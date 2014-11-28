@@ -17,7 +17,17 @@
 	<main class="container">
 		<div class="row-fluid">
 			<div class="col-md-2"></div>
-			<div class="col-md-8"></div>
+			<div class="col-md-8"><h2>Wikipedia Stichwortsuche:</h2>
+			
+			<form id="searchbox" class="searchbox" action="http://de.wikipedia.org/wiki/Spezial:Suche" name="searchbox">
+				<input class="searchboxInput" type="text" dir="ltr" size="50" placeholder="Jetzt Suchen!" value="" name="search"></input>
+        		<input class="searchboxGoButton" type="submit" value="Artikel-Suche" name="go"></input>
+        		<input class="searchboxSearchButton" type="submit" value="Volltextsuche" name="fulltext"></input>
+			</form>
+			
+			
+			
+			</div>
 			<div class="col-md-2"></div>
 		</div>
 	</main>
