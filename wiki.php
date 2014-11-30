@@ -20,6 +20,7 @@
 			<div class="col-md-8"><h1>Wikipedia Stichwortsuche:</h1>
 			
 			<form id="searchbox" class="searchbox" action="http://de.wikipedia.org/wiki/Spezial:Suche" name="searchbox">
+				<label>Suche:</label>
 				<input tabindex="0" class="searchboxInput" type="text" dir="ltr" size="50" placeholder="Jetzt Suchen!" value="" name="search"></input>
         		<input class="searchboxGoButton" type="submit" value="Artikel-Suche" name="go"></input>
         		<input class="searchboxSearchButton" type="submit" value="Volltextsuche" name="fulltext"></input>
