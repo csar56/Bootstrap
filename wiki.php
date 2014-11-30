@@ -21,7 +21,8 @@
 			
 			<form id="searchbox" class="searchbox" action="http://de.wikipedia.org/wiki/Spezial:Suche" name="searchbox">
 				<label for="search">Suche:</label>
-				<input tabindex="0" class="searchboxInput" type="text" dir="ltr" size="50" placeholder="Jetzt Suchen!" value="" name="search"></input>
+				<input  id ="search" tabindex="0" class="searchboxInput" type="text" dir="ltr" size="50" placeholder="Jetzt Suchen!" value="" name="search"></input>
+        		
         		<input class="searchboxGoButton" type="submit" value="Artikel-Suche" name="go"></input>
         		<input class="searchboxSearchButton" type="submit" value="Volltextsuche" name="fulltext"></input>
 			</form>
