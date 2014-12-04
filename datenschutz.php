@@ -16,11 +16,11 @@
 
 	<main class="container">
 		<div class="row-fluid">
-			<div class="col-md-12">
-			<iframe style="border: 0; height: 200px; width: 600px;" src="http://christophsauer.cloudcontrolled.com/piwik/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+					<div class="col-md-2"></div>
+						<div class="col-md-12">
+			<iframe style="border: 0; height: 200px; width: 100%" src="http://christophsauer.cloudcontrolled.com/piwik/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
 			</div>
-			<div class="col-md-2"></div>
-			<div class="col-md-8">
+			<div class="col-md-12">
 			
 			<p><strong>Datenschutzerkl&auml;rung</strong></p><p><strong>Geltungsbereich</strong></p><p>Diese Datenschutzerkl&auml;rung kl&auml;rt Nutzer &uuml;ber die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter [HIER BITTE IHREN NAMEN, ADRESSE, EMAIL UND TELEFONNUMMER EINTRAGEN] auf dieser Website (im folgenden “Angebot”) auf.<br />
 <br />
@@ -38,7 +38,7 @@ Sie k&ouml;nnen viele Online-Anzeigen-Cookies von Unternehmen &uuml;ber die US-a
 </p><p><a href="http://rechtsanwalt-schwenke.de/smmr-buch/datenschutz-muster-generator-fuer-webseiten-blogs-und-social-media/" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://rechtsanwalt-schwenke.de/smmr-buch/datenschutz-muster-generator-fuer-webseiten-blogs-und-social-media/', 'Datenschutz-Muster von Rechtsanwalt Thomas Schwenke - I LAW it']);" ><strong>Datenschutz-Muster von Rechtsanwalt Thomas Schwenke - I LAW it</strong></a></p>
 			
 			</div>
-			<div class="col-md-2"></div>
+
 		</div>
 	</main>
 
