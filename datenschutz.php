@@ -16,6 +16,9 @@
 
 	<main class="container">
 		<div class="row-fluid">
+			<div class="col-md-12">
+			<iframe style="border: 0; height: 200px; width: 600px;" src="http://christophsauer.cloudcontrolled.com/piwik/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+			</div>
 			<div class="col-md-2"></div>
 			<div class="col-md-8">
 			
