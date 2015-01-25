@@ -1,39 +1,18 @@
-<!DOCTYPE html>
-<html lang="de">
-
+<!Doctype html>
+<html>
 <head>
-	<title>Christoph Sauer</title>
-		<?php
-		include('php/head.php');
-	?>
-<link href="css/mysite/animation.css" />	
-<script src="js/myjs/animation.js" type="text/javascript"></script>
+<title>Animation</title>
+<link rel="stylesheet" href="css/mysite/animation.css">
 </head>
 <body>
-<?php
-	include('php/navbar.php');
-?>
-
-
-	<main class="container">
-	 <div id="figur"></div>
-	</main>
-
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//christophsauer.cloudcontrolled.com/piwik/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 1]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
+<div>Klick mich</div>
+<script>
+$(document).ready(function(){
+	$('div').click(function(){
+			$('div').hide();
+		});
+});
 </script>
-<noscript><p><img src="//christophsauer.cloudcontrolled.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
-<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
 </body>
 </html>
