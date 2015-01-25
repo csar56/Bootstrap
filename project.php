@@ -48,6 +48,12 @@
 			<td>git checkout -- <b>dateiname</b></td>
 			<td>Macht die &auml;nderung einer Datei r&uuml;ckg&auml;ngig</td>
 		</tr>
+		<tr>
+			<td>
+			gource -1920x1080 --multi-sampling --stop-at-end -o - | ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libvpx -b 6000K video/gource.webm
+			</td>
+			<td>Gource Video erstellen</td>
+		</tr>
 	</table>
 	</div>
 	
